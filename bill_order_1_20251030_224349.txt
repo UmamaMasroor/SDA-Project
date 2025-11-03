@@ -1,0 +1,11 @@
+====== RESTAURANT BILL ======
+Order ID: 1
+Placed by: Ali
+Date: Thu Oct 30 22:43:49 PKT 2025
+
+No   Name                 Qty    Subtotal  
+1    PIZZA                5      Rs 1000.00 
+---------------------------------
+Total: Rs 1000.00
+
+Thank you!
